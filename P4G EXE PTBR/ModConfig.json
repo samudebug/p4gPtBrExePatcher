@@ -1,0 +1,16 @@
+{
+  "ModId": "P4G_EXE_PTBR",
+  "ModName": "P4G PC EXE PTBR",
+  "ModAuthor": "crisdebug",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Traducao dos textos do EXE do P4G PC",
+  "ModDll": "P4G EXE PTBR.dll",
+  "ModIcon": "Banner.png",
+  "ModR2RManagedDll32": "x86/P4G EXE PTBR.dll",
+  "ModR2RManagedDll64": "x64/P4G EXE PTBR.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": null,
+  "SupportedAppId": []
+}
